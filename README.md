@@ -1,2 +1,2 @@
 # Fedot
-The treasure trove of meanings expressed in the English language common for humans and machines - the Common English Language.
+The treasure trove of meanings expressed in the English language common for humans and machines - the Common English Language (https://github.com/common-english).
